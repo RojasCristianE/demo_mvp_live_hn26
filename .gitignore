@@ -1,0 +1,10 @@
+# PocketBase binary & data
+pocketbase
+pb_data/
+
+# Temporary timer & runtime files
+.timer_start
+*.log
+
+# Benchmark and experimental logs
+freebuff-chat-*.md
